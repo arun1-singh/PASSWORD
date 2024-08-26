@@ -18,10 +18,10 @@ const Navbar = () => {
       
       </li>
     </ul> */}
-    <button className='text-white bg-green-700 my-5 rounded-full flex justify-between items-center ring-white ring-1'>
+{/*     <button className='text-white bg-green-700 my-5 rounded-full flex justify-between items-center ring-white ring-1'>
       <img className='invert w-10 p-1' src="/icons/github.svg" alt="" />
       <span className='font-bold px-2'>Github</span>
-      </button>
+      </button> */}
     </div>
     
     </nav>
